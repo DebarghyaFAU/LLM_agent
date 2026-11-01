@@ -1,0 +1,8 @@
+id,name,processor type,price,stock
+L1,Campus 14,Intel Core i3,400.0,5
+L2,Everyday 15,Intel Core i5,550.0,1
+L3,Everyday Plus 15,Intel Core i5,650.0,3
+L4,Budget Photo 14,Intel Core i5,450.0,0
+L5,Creator 15,Intel Core i7,900.0,4
+L6,Creator Pro 16,Intel Core i7,1100.0,2
+L7,Design Air 13,Apple M2,850.0,3
